@@ -1,5 +1,5 @@
 # Getting Started
-To use Dibs head on over to the [registration page](https://www.grabdibs.com/register) and create an account if you have not already. Additionally, you can also [download the Dibs mobile app](https://itunes.apple.com/us/app/dibs-buy-sell-unique-vintage-second-hand/id779556743) from the App Store for the premier dibs experience.
+To use Dibs, head on over to the [registration page](https://www.grabdibs.com/register) and create an account if you have not already. Additionally, you can also [download the Dibs mobile app](https://itunes.apple.com/us/app/dibs-buy-sell-unique-vintage-second-hand/id779556743) from the App Store for the premier Dibs experience.
 
 Once you have an account on Dibs you will be able to follow along with everything described here.
 
@@ -14,11 +14,14 @@ This document is separated into sections to address the needs and functions avai
 ## Posting Your First Item
 Selling on Dibs could not be easier! You simply take a picture, add pricing and description information, and post it. 
 
-![images/test.png](SusanHorneImage.jpg)
+![test.png](SusanHorneImage.jpg)
 ### Step 1. Take A Picture
 The first step is to either snap a few new pictures of the item you want to sell, or choose some great pics from your camera roll. You can add up to five pictures per post. 
 
-> You should have only a single item per post, don't try and put five pictures of different items into a single post, because you get a single description and price for the post. 
+<aside class="notice">
+You should have only a single item per post, don't try and put five pictures of different items into a single post, because you get a single description and price for the post. 
+</aside>
+
 #### Quality Pictures
 Choose clear, well lit images that highlight the best features of your items. The picture is what is going to sell your item, so make it great! As your item price increases, multiple pictures are a virtual requirement to provide the buyer with enough information to engage in the sale.
 ### Step 2. Add a Price and Description
@@ -44,7 +47,9 @@ If you don't want to share your feed on Facebook then you can just proceed to th
 
 ### Viewing Your Finished Post
 When the post is complete you will receive a message telling you of the success. Dismiss this screen.
-> Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted ot to the people you invite so they can see what you are selling.
+<aside class="notice">
+Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted ot to the people you invite so they can see what you are selling.
+</aside>
 
 When you return to the main app screen, use the tab bar at the bottom of the application to go to your user profile. Tap the far right person shaped tab to do this. Once you are there you will see your profile, and near the middle of the screen you will see a tab section that includes these labels; Social, Buying, Selling, & Favorites. Tap on the Selling tab and you will see your item in the grid below. Tapping on that item in the grid will take you to the item detail view where you have additional options related to your post.
 
@@ -64,7 +69,10 @@ People can find you and follow you in app by navigating to your items or your pr
 You can also send email invitations to people in your address book and grow your follower base that way. There are two simple ways to send email invitations via Dibs. 
 
 You can navigate to the Social Feed tab, in the bottom tab bar, and once you are on the Social Feed you will see a person shaped icon on the left side of the Navigation Bar. Tap that icon and it will bring you to the email invitation screen. 
-> Please accept the IOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.
+
+<aside class="warning">
+Please accept the IOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.
+</aside>
 
 The email invitation screen allows you to choose emails from your address book, manually enter email addresses, and send a test email to yourself so you can see what the email looks like before inviting your friends.
 
@@ -95,7 +103,8 @@ Great job, now you know how to post items, view them, and invite friends to view
 What can be edited
 ## Deleting Items
 How to delete
-
+## Marking Items Sold
+When your item sells, or you have depleted all available quantity then you can mark the item as sold. Marking the item sold will not remove it from your profile/storefront/search, but will prevent people from attempting to purchase it moving forward. In this way, inventory is kept around to help you advertise the culture and tone of the items you carry, which will help you build your following on Dibs.
 
 # Dibs for Storefront Sellers
 Description
@@ -188,14 +197,20 @@ After you have completed the registration form and submitted it, you will now ha
 Dibs will monitor the content of your channel to ensure it meets community standards. If it does not, then we will be in contact to help return the store to compliance.
 </aside>
 
-> Dibs will monitor the content of your channel to ensure it meets community standards. If it does not, then we will be in contact to help return the store to compliance.
-
 You are now ready to finish the setup of your storefront, posting inventory, and inviting customers to your private channel.
 
 **Please note** that you will want to also visit the [Storefront section](#creating-your-storefront) of this document to [add your store profile picture](#profile-picture) and to [add your store image banner background](#banner-image). Once you have your store details, profile image, and banner image complete - you should feel confident to show off your storefront and begin inviting your buyers.
 
+Lastly, you will also receive an email after you finish your registration. This email will contain instructions for you to being using your new channel as well as all the custom links for you to send to your customers, if you should decide to do that on your own and not use the tooling in the app.
+
 ### Advanced Tools For Wholesale Sellers
 Aside from the advanced storefront seller tools that you get when create a wholesale seller account, there are several other impactful tools that you can use as a wholesale seller. This section describes those tools.
+
+### Your Private & Invite Only Sales Channel
+The private sales channel is what is **key** to the Dibs wholesale seller system.  When you post items to your private channel, they remain private and hidden from public view. Items posted to your private channel are only visible to the people you invite to your private channel, and no one else. 
+
+When you post new items to your private channel, all the associated new item notifications will be sent to the validated subscribers of your private channel.
+
 ### Customer Invitations (Private Channel)
 You can invite customers to your private channel via email. By Inviting customers to your private channel, they will be able to receive new item announcements from your store, view wholesale items, and purchase wholesale items. 
 
@@ -206,26 +221,55 @@ The requests will be sent via push notification to your app, and will also be em
 You can always access their approval requests at a later time and change their enrollment status, should the need arise to do so.
 
 You can invite customers to your private channel by following the  [directions provided here](#sharing-via-friend-invitations).
-### Your Private & Invite Only Sales Channel
-The private sales channel is what is **key** to the Dibs wholesale seller system.  When you post items to your private channel, they remain private and hidden from public view. Items posted to your private channel are only visible to the people you invite to your private channel, and no one else. 
-#### Inviting Customers To Your Private Channel
-Details
+
 ##### Customers Access Requests
-Customers can request access to your private channel as well.
+The customer invitation process offers two points of control, to ensure that only the folks you invite are allowed access to your channel.  These control points include:
+- You must send your custom invite link to your customers.
+- You must also 'accept' their invitation request once they have completed the registration form.
+
+The invitation approval screen is pictured below. This screen allows your to perform just a few simple actions, including:
+- Reviewing the user information from the requesting customer.
+- Approving the request, which allows them access to your channel.
+- Declining the request, which declines or removes their access from your channel. 
+- Closing the request, so that you can review it further later. In this case, no action is taken and the customer is left in the access state they had when you entered this screen.
+
+![test.png](SusanHorneImage.jpg)
+
+You can always go back to your Notifications Tab (in the app) later, and manage requests or remove access if your situation changes. 
+
 ### Selling Items
-What is unique here
-#### Sales Channel Targeting
-Wholesale versus retail. Buy Now and Quantity 
-#### Wholesale Post Lifecycle
-Public can't see. Subscribers of wholesale channel can.
+There is a single, yet important, difference when posting items intended to go to your private wholesale channel. The difference is that you will want to explicitly mark the item as a 'wholesale' item. You do this on the second selling screen (pictured below), at the bottom there is a button that allows you to toggle the post between 'Retail' and 'Wholesale'. By choosing the 'Wholesale' option, the item will be posted to your private wholesale channel and become visible to only those customers with access to your channel. The remainder of the selling process is unchanged for selling items to wholesale. 
+#### Buy Now and Quantity
+When the wholesale channel is selected for your item being posted, you have the option of enabling 'Buy It Now' for that item. This option will allow your customers to complete the purchase of the item, electronically in the app. Upon completion of the transaction, both the seller and buyer will receive follow on notifications so the item shipment, delivery, or pickup can be arranged.
+
+When 'Buy It Now' is enabled, you also need to input an inventory quantity. Please enter whatever quantity you are willing to commit to the Dibs sales channel, as you can hold other inventory for additional sales channels you already use.
+
+If 'Buy It Now' is not enabled, then the default 'Dibs' button will appear for the item. As usual, this button indicates that a Customer would like to purchase the item and when they grab dibs on an items, both the seller and buyer will be ushered into the private chat system to arrange the final details of their transaction.
+
+<aside class="notice">
+Buy It Now transactions are subject to the transaction fees listed in our [terms and conditions documents](https://dev-dibs.grabdibs.com/terms-of-use). So take these fees into account when you price and place your item on the Dibs wholesale platform.
+</aside>
+
+When the available quantity for an item has been purchased, the item 'action button' will return to the 'dibs' button. This will allow you to continue to garner interest for the item, should you have additional inventory or ordering capacity. However, if you have sold all items and have no ability to fulfill additional orders, then it is best to [mark the item sold](#marking-items-sold). This will still allow customers to see the great types of items available in your store, but it will not allow them to purchase or grab Dibs any longer.
+
 ### New Item Announcements
-This is what they are, this is what they do
-#### Creating Announcements
-Do this and that
+Announcements provide a way for you to "show" your new inventory to your customers and buyers, through one easy interaction. The best part is that Announcements have a built in "sales funnel" to help drive new and additional purchases from existing customers. Announcements help you keep your store in the front of your customers minds.
+
+#### Step 1. Begin Announcement
+To begin creating an announcement you will have to use tap the 'camera icon' on the Tab Bar at the bottom of the mobile app. This will bring up the screen that allows you to create an announcement, or begin posting an item. Tap the 'Announce Items' button to begin creating an announcement.
+![SusanHorneImage](SusanHorneImage.jpg)
+
+#### Step 2. Choose Items
+and
+#### Step 3. Choose Recipients
+then
+#### Step 4. Add A Message and Name
+and
+#### Announcement Complete
+You are done!
 
 # Summary
 More info, contact, etc
-
 
 
 
