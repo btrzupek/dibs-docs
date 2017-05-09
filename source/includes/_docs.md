@@ -5,9 +5,9 @@ Once you have an account on Dibs you will be able to follow along with everythin
 
 # Selling On Dibs
 Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
-* **General Seller**  local artisans or people with some goods to sell.
-* **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
-* **Wholesale Sellers**  sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
+- **General Seller**  local artisans or people with some goods to sell.
+- **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
+- **Wholesale Sellers**  sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
 
 This document is separated into sections to address the needs and functions available to each of these types of Dibs users.
 
@@ -260,16 +260,48 @@ To begin creating an announcement you will have to use tap the 'camera icon' on 
 ![SusanHorneImage](SusanHorneImage.jpg)
 
 ### Step 2. Choose Items
-Now you will be presented with the option to 'Create A List' or 'Choose an Existing List'. A 'List' is a collection of items and recipients that you want to send an announcement to.
+Now you will be presented with the option to 'Create A List' or 'Choose an Existing List'. A 'List' is a collection of items and recipients that you want to send an announcement to. Lists get saved when you are done creating announcements so that you can easily resend the same batch of images to new recipients, or a whole new batch of images to the same set of recipients.
+![SusanHorneImage](SusanHorneImage.jpg)
+
+For purposes of this document, we will assume that you are going to 'Create A List' and start fresh. Tap 'Create A List' and you will be presented with a list of items you have posted to your wholesale channel. Newest items are at the top. You can tap the items that you want to add to the Announcement. Add as many items as you like. 
+![SusanHorneImage](SusanHorneImage.jpg)
+
+<aside class="notice">
+If there are no items in the list, this means that you have not posted any items in your wholesale channel yet. Go post items in your wholesale channel and then come back to create your announcement.
+</aside>
+
+Once you have chosen all your items, then tap the 'Next' button in the top Navigation Bar to continue to the next step.
+
 ### Step 3. Choose Recipients
-then
-### Step 4. Add A Message and Name
-and
+This screen will allow you to configure who the Announcement will be sent to. Starting from the top, here is a description of the options on this view.
+
+![SusanHorneImage](SusanHorneImage.jpg)
+
+|Option                                |Description                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|Wholesale Subscribers (switch)        |This switch allows you to control if the announcement will be sent to your approved wholesale subscribers. If you only wanted to send to some small subset of customers, or a set of new users, it might be helpful to disable this option to avoid notifying your entire customer base.                                                                                       |
+|Add Email Recipients (switch)         |This switch allows you to also add additional email recipients from your Contacts App or by manually inputting the email addresses.                                                                                                                                                                                                                                            |
+|Add All Address Book Contacts (Button)|This button allows you to add every contact in your address book with a single tap. This is useful if you have all your contacts in your address book, and perhaps only a few of them are contacts that you do not want the Announcement sent to. In this sample scenario, you can add all, and then simply deselect the contacts that you do not want to receive the invite..  |
+
+After you have configured the recipients in the manner you see fit, then you can tap the 'Next' button in the top Navigation Bar to get to the next step of sending the Announcment. 
+### Step 4. Add A Message and Title
+Now that you have chosen your items and recipients, the last step is to add a personal message and an Announcement Title. (The Announcement Title can be used to uniquely identify this Announcement later so that you can use it for quick reference on future announcements.)
+
+The Message is the field where you can describe the overall group of items in this announcement to your customers. Something like: "Please browse our new inventory from Peru! They just arrived this morning and we have many great treasures...". This is your sales pitch to provide meaning and context to your customers about these new items in this Announcment. Make it good!
+
+Once you have added a message and optionally a title, then you can tap the 'Send' button in the upper right of the Navigation Bar. This will send the announcement to the intended recipients.
+
 ### Announcement Complete
-You are done!
+Congratulations, you sent your first Announcment! 🍻 
+
+Here is what will happen next. The recipients that are subscribed to your wholesale channel and that are using the mobile app, will receive a push notification that will take them directly to your announcement. 
+
+The recipients that you entered as email addresses and the subscribers of your wholesale channel will receive a beautifully formatted email with all the item images, descriptions, and prices, with links back to the app and web site (to allow them to go directly to purchase or discussion of the item).
+
+Happy Selling!
 
 # Summary
-More info, contact, etc
+We hope this document was helpful to you. We are constantly working on it to make it better, but if you find something that is incorrect, or you find that something is missing, please let us know and we will be quick to address it. Notify us at [docs@grabdibs.com](mailto:docs@grabdibs.com). Thanks.
 
 
 
