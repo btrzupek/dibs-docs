@@ -5,9 +5,9 @@ Once you have an account on Dibs you will be able to follow along with everythin
 
 # Selling On Dibs
 Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
-- **General Seller** - local artisans or people with some goods to sell.
-- **Storefront Sellers** - folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
-- **Wholesale Sellers** - sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
+* **General Seller**  local artisans or people with some goods to sell.
+* **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
+* **Wholesale Sellers**  sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
 
 This document is separated into sections to address the needs and functions available to each of these types of Dibs users.
 
@@ -260,7 +260,7 @@ To begin creating an announcement you will have to use tap the 'camera icon' on 
 ![SusanHorneImage](SusanHorneImage.jpg)
 
 ### Step 2. Choose Items
-and
+Now you will be presented with the option to 'Create A List' or 'Choose an Existing List'. A 'List' is a collection of items and recipients that you want to send an announcement to.
 ### Step 3. Choose Recipients
 then
 ### Step 4. Add A Message and Name
