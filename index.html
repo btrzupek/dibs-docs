@@ -1,0 +1,629 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>API Reference</title>
+
+    <style>
+      .highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight .gh {
+  color: #999999;
+}
+.highlight .sr {
+  color: #f6aa11;
+}
+.highlight .go {
+  color: #888888;
+}
+.highlight .gp {
+  color: #555555;
+}
+.highlight .gs {
+}
+.highlight .gu {
+  color: #aaaaaa;
+}
+.highlight .nb {
+  color: #f6aa11;
+}
+.highlight .cm {
+  color: #75715e;
+}
+.highlight .cp {
+  color: #75715e;
+}
+.highlight .c1 {
+  color: #75715e;
+}
+.highlight .cs {
+  color: #75715e;
+}
+.highlight .c, .highlight .cd {
+  color: #75715e;
+}
+.highlight .err {
+  color: #960050;
+}
+.highlight .gr {
+  color: #960050;
+}
+.highlight .gt {
+  color: #960050;
+}
+.highlight .gd {
+  color: #49483e;
+}
+.highlight .gi {
+  color: #49483e;
+}
+.highlight .ge {
+  color: #49483e;
+}
+.highlight .kc {
+  color: #66d9ef;
+}
+.highlight .kd {
+  color: #66d9ef;
+}
+.highlight .kr {
+  color: #66d9ef;
+}
+.highlight .no {
+  color: #66d9ef;
+}
+.highlight .kt {
+  color: #66d9ef;
+}
+.highlight .mf {
+  color: #ae81ff;
+}
+.highlight .mh {
+  color: #ae81ff;
+}
+.highlight .il {
+  color: #ae81ff;
+}
+.highlight .mi {
+  color: #ae81ff;
+}
+.highlight .mo {
+  color: #ae81ff;
+}
+.highlight .m, .highlight .mb, .highlight .mx {
+  color: #ae81ff;
+}
+.highlight .sc {
+  color: #ae81ff;
+}
+.highlight .se {
+  color: #ae81ff;
+}
+.highlight .ss {
+  color: #ae81ff;
+}
+.highlight .sd {
+  color: #e6db74;
+}
+.highlight .s2 {
+  color: #e6db74;
+}
+.highlight .sb {
+  color: #e6db74;
+}
+.highlight .sh {
+  color: #e6db74;
+}
+.highlight .si {
+  color: #e6db74;
+}
+.highlight .sx {
+  color: #e6db74;
+}
+.highlight .s1 {
+  color: #e6db74;
+}
+.highlight .s {
+  color: #e6db74;
+}
+.highlight .na {
+  color: #a6e22e;
+}
+.highlight .nc {
+  color: #a6e22e;
+}
+.highlight .nd {
+  color: #a6e22e;
+}
+.highlight .ne {
+  color: #a6e22e;
+}
+.highlight .nf {
+  color: #a6e22e;
+}
+.highlight .vc {
+  color: #ffffff;
+}
+.highlight .nn {
+  color: #ffffff;
+}
+.highlight .nl {
+  color: #ffffff;
+}
+.highlight .ni {
+  color: #ffffff;
+}
+.highlight .bp {
+  color: #ffffff;
+}
+.highlight .vg {
+  color: #ffffff;
+}
+.highlight .vi {
+  color: #ffffff;
+}
+.highlight .nv {
+  color: #ffffff;
+}
+.highlight .w {
+  color: #ffffff;
+}
+.highlight {
+  color: #ffffff;
+}
+.highlight .n, .highlight .py, .highlight .nx {
+  color: #ffffff;
+}
+.highlight .ow {
+  color: #f92672;
+}
+.highlight .nt {
+  color: #f92672;
+}
+.highlight .k, .highlight .kv {
+  color: #f92672;
+}
+.highlight .kn {
+  color: #f92672;
+}
+.highlight .kp {
+  color: #f92672;
+}
+.highlight .o {
+  color: #f92672;
+}
+    </style>
+    <link href="stylesheets/screen.css" rel="stylesheet" media="screen" />
+    <link href="stylesheets/print.css" rel="stylesheet" media="print" />
+      <script src="javascripts/all.js"></script>
+  </head>
+
+  <body class="index" data-languages="[]">
+    <a href="#" id="nav-button">
+      <span>
+        NAV
+        <img src="images/navbar.png" alt="Navbar" />
+      </span>
+    </a>
+    <div class="tocify-wrapper">
+      <img src="images/logo.png" alt="Logo" />
+        <div class="search">
+          <input type="text" class="search" id="input-search" placeholder="Search">
+        </div>
+        <ul class="search-results"></ul>
+      <div id="toc">
+      </div>
+        <ul class="toc-footer">
+            <li><a href='#'>Sign Up for a Developer Key</a></li>
+            <li><a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a></li>
+        </ul>
+    </div>
+    <div class="page-wrapper">
+      
+      <div class="content">
+        
+          <h1 id="getting-started">Getting Started</h1>
+
+<p>To use Dibs head on over to the <a href="https://www.grabdibs.com/register">registration page</a> and create an account if you have not already. Additionally, you can also <a href="https://itunes.apple.com/us/app/dibs-buy-sell-unique-vintage-second-hand/id779556743">download the Dibs mobile app</a> from the App Store for the premier dibs experience.</p>
+
+<p>Once you have an account on Dibs you will be able to follow along with everything described here.</p>
+
+<h1 id="selling-on-dibs">Selling On Dibs</h1>
+
+<p>Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
+- <strong>General Seller</strong> - local artisans or people with some goods to sell.
+- <strong>Storefront Sellers</strong> - folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
+- <strong>Wholesale Sellers</strong> - sellers who desire some privacy around content and pricing, and maintain a group of active buyers.</p>
+
+<p>This document is separated into sections to address the needs and functions available to each of these types of Dibs users.</p>
+
+<h2 id="posting-your-first-item">Posting Your First Item</h2>
+
+<p>Selling on Dibs could not be easier! You simply take a picture, add pricing and description information, and post it. </p>
+
+<p><img src="images/SusanHorneImage.jpg" alt="images/test.png" /></p>
+
+<h3 id="step-1-take-a-picture">Step 1. Take A Picture</h3>
+
+<p>The first step is to either snap a few new pictures of the item you want to sell, or choose some great pics from your camera roll. You can add up to five pictures per post. </p>
+
+<blockquote>
+<p>You should have only a single item per post, don&rsquo;t try and put five pictures of different items into a single post, because you get a single description and price for the post. </p>
+
+<h4 id="quality-pictures">Quality Pictures</h4>
+
+<p>Choose clear, well lit images that highlight the best features of your items. The picture is what is going to sell your item, so make it great! As your item price increases, multiple pictures are a virtual requirement to provide the buyer with enough information to engage in the sale.</p>
+
+<h3 id="step-2-add-a-price-and-description">Step 2. Add a Price and Description</h3>
+
+<p>The next step is to add the details about your item to the post.  On this screen you will be able to add the following information to your post:
+- Price
+- Category
+- Description</p>
+</blockquote>
+
+<p>After adding these details to your post, you can proceed to the next step.</p>
+
+<h3 id="step-3-post-destinations">Step 3. Post Destinations</h3>
+
+<p>The final step for posting an item allows you to set the location for the item being posted and share your item into your Facebook feed or to a Facebook group that you are a member of.  If tap on either of these buttons, you will be required to login with Facebook (if you are not already). </p>
+
+<h4 id="location">Location</h4>
+
+<p>By default, the post will be created at your current location. This is great if are at the same place where the item is being sold, however in some situations you may want to post from a different location. For example, you tap the button that says &ldquo;Current Location&rdquo; and then move where the item will be placed at. This is a great option if, for example, you are posting inventory for sale at a retail store, but you are sitting at home while posting the item.</p>
+
+<h4 id="facebook">Facebook</h4>
+
+<p>Sharing to your own feed is a great way to let your Facebook friends know about your item.</p>
+
+<p>Sharing to a Facebook Group is a great way for you to target other like minded folks, and gain a broader audience for your item. </p>
+
+<p>If you don&rsquo;t want to share your feed on Facebook then you can just proceed to the next step, which will save your post.</p>
+
+<h3 id="viewing-your-finished-post">Viewing Your Finished Post</h3>
+
+<p>When the post is complete you will receive a message telling you of the success. Dismiss this screen.</p>
+
+<blockquote>
+<p>Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted ot to the people you invite so they can see what you are selling.</p>
+</blockquote>
+
+<p>When you return to the main app screen, use the tab bar at the bottom of the application to go to your user profile. Tap the far right person shaped tab to do this. Once you are there you will see your profile, and near the middle of the screen you will see a tab section that includes these labels; Social, Buying, Selling, &amp; Favorites. Tap on the Selling tab and you will see your item in the grid below. Tapping on that item in the grid will take you to the item detail view where you have additional options related to your post.</p>
+
+<h3 id="sharing-your-post-with-a-bigger-audience">Sharing Your Post With A Bigger Audience</h3>
+
+<p>You have several options for how to share a post with others and grow the audience for the item. Posts can (or will be, depending on the type) be shared in the following manners:
+- Shared with your followers
+- Shared via friend invitations
+- Shared through Facebook
+- Shared with the IOS Share Sheet</p>
+
+<h4 id="sharing-with-followers">Sharing with followers</h4>
+
+<p>Whenever you post an item, it is shared with your followers. This means that when your follower opens the app, they will see your item in their various feeds (as applicable by location or filter). </p>
+
+<p>People can find you and follow you in app by navigating to your items or your profile and tapping the follow button. You should encourage your friends to follow your account, as it helps grow your audience for your posted items. </p>
+
+<h4 id="sharing-via-friend-invitations">Sharing via friend Invitations</h4>
+
+<p>You can also send email invitations to people in your address book and grow your follower base that way. There are two simple ways to send email invitations via Dibs. </p>
+
+<p>You can navigate to the Social Feed tab, in the bottom tab bar, and once you are on the Social Feed you will see a person shaped icon on the left side of the Navigation Bar. Tap that icon and it will bring you to the email invitation screen. </p>
+
+<blockquote>
+<p>Please accept the IOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.</p>
+</blockquote>
+
+<p>The email invitation screen allows you to choose emails from your address book, manually enter email addresses, and send a test email to yourself so you can see what the email looks like before inviting your friends.</p>
+
+<p>You can also use the Tab Bar at the bottom of the application and go to your User Profile. Once you are at your User Profile, tap the &lsquo;Options&rsquo; button in the top right of the Navigation Bar. This will bring you to the User Profile Options screen, where you can access the following invitation systems depending on your current User Role on Dibs:</p>
+
+<table><thead>
+<tr>
+<th>Invitation Type</th>
+<th>Description</th>
+<th>Required Role</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>Friend Invitation</td>
+<td>Allows you to invite friends via email. These friends will receive an email to download the app and find you on Dibs.</td>
+<td>Any Registered User</td>
+</tr>
+<tr>
+<td>Storefront Customer Invitation</td>
+<td>Allows Storefront sellers to invite customers to follow their store. The email will contain a direct link to the store so the customers can easily find it and follow you.</td>
+<td>Registered Storefront Users</td>
+</tr>
+<tr>
+<td>Wholesale Customer Invitation</td>
+<td>Allows Wholesale Sellers to invite customers to their private sales channel. This will require the wholesale seller to approve all users access once they accept your invite. In this way you have total control over who has access to your wholesale pricing and products.</td>
+<td>Registered Wholesale Selling Users</td>
+</tr>
+</tbody></table>
+
+<h4 id="sharing-through-facebook">Sharing through Facebook</h4>
+
+<p>Once you post an item, an item posting success screen appears with a &ldquo;Invite Friends To Dibs&rdquo; button. Tapping this button will bring up the Facebook Invitation Share Sheet, and the invite from you will include a link from Facebook to download and install Dibs. This will help you get your friends on Dibs.</p>
+
+<h4 id="sharing-with-the-ios-share-sheet">Sharing with the iOS Share Sheet</h4>
+
+<p>Probably one of the most robust sharing solutions in the app, is the IOS Share Sheet. To access the Share Sheet, you simply navigate to an item you own and tap the &lsquo;Options&rsquo; item on the top right Navigation Bar. Choose the &lsquo;Share&rsquo; option and the iOS share sheet will be presented. </p>
+
+<p>This Share Sheet behaves exactly like all other IOS Share Sheets and allows you to access a variety of ways to share, that vary based on what is installed on your device.</p>
+
+<p>However, one of the most flexible items in the Share Sheet is the &lsquo;Copy&rsquo; item. This item will provide a deep link directly to your item, that can be shared over any medium.</p>
+
+<h3 id="you-are-finished">You Are Finished!</h3>
+
+<p>Great job, now you know how to post items, view them, and invite friends to view them as well! Now you can get to selling!</p>
+
+<h1 id="managing-items">Managing Items</h1>
+
+<h2 id="editing-items">Editing Items</h2>
+
+<p>What can be edited</p>
+
+<h2 id="deleting-items">Deleting Items</h2>
+
+<p>How to delete</p>
+
+<h1 id="dibs-for-storefront-sellers">Dibs for Storefront Sellers</h1>
+
+<p>Description</p>
+
+<h2 id="creating-your-storefront">Creating Your Storefront</h2>
+
+<p>You can&hellip;</p>
+
+<h3 id="creating-on-web">Creating on web</h3>
+
+<p>Details</p>
+
+<h3 id="creating-via-our-mobile-app">Creating via our mobile app</h3>
+
+<p>Details</p>
+
+<h4 id="banner-image">Banner Image</h4>
+
+<p>Requirements</p>
+
+<h4 id="profile-picture">Profile Picture</h4>
+
+<p>Requirements</p>
+
+<h4 id="store-details">Store Details</h4>
+
+<p>Include web, address, phone, etc</p>
+
+<h3 id="customer-invitations">Customer Invitations</h3>
+
+<p>You can invite customers to follow your store via email&hellip;</p>
+
+<h2 id="advanced-selling-tools-for-storefronts">Advanced Selling Tools For Storefronts</h2>
+
+<p>Here is what you get</p>
+
+<h3 id="selling-items">Selling Items</h3>
+
+<h4 id="dibs">Dibs</h4>
+
+<p>Place a hold</p>
+
+<h4 id="buy-it-now">Buy It Now</h4>
+
+<p>Paid and pick or ship, configured when item gets sold</p>
+
+<h3 id="inventory-management">Inventory Management</h3>
+
+<p>Add Inventory identifier, use the bar code scanner. Ease product lookups on purchase. Close inventory that is sold.</p>
+
+<h3 id="customer-targeting">Customer Targeting</h3>
+
+<p>you can configure posting regions and have your posts hover where your customers are, this make your items more discoverable. Yet they still appear in your followers items feed</p>
+
+<h3 id="staging-posts">Staging Posts</h3>
+
+<p>You can set items to display in the future</p>
+
+<h3 id="bumping-posts">Bumping Posts</h3>
+
+<p>You can bump posts to the top of your local feed</p>
+
+<h3 id="custom-signature">Custom Signature</h3>
+
+<p>You can add a signature block to your posts, for example to include information about store policies or shipping details.</p>
+
+<h3 id="3d-posts">3D Posts</h3>
+
+<p>You can post items using our unique technology to allow people to see all sides of your item</p>
+
+<h3 id="local-advertising">Local Advertising</h3>
+
+<h4 id="home-screen-banners">Home Screen Banners</h4>
+
+<p>You can be included in the home screen banner in your region</p>
+
+<h4 id="dibs-advertising-network">Dibs Advertising Network</h4>
+
+<p>Here you can</p>
+
+<h1 id="dibs-for-wholesale-sellers">Dibs For Wholesale Sellers</h1>
+
+<p>Dibs provides features and tooling to directly simplify and automate the work of estate sellers, importers, and antique wholesalers. Registration of a wholesale account is free and you can follow the steps below to configure your account. </p>
+
+<p>The wholesale tools from Dibs provide many benefits including:
+- All of the advanced functionality that comes with a Dibs Storefront. (See the above section for more information on storefronts)
+- A private and invite only sales channel, where your items, pricing, and customers are all protected from disclosure to the general public.
+- A simple way to announce new inventory, and get the items in front of your buyers.
+- Electronic purchasing, so you can increase sales from your buyers that would take advantage of this buying process.
+- Easy ways to show your inventory to geographically targeted locations.
+- Provide certainty to buyers in their purchases, where a dynamic and uncertain environment may exist today.</p>
+
+<p>The first step to realizing these benefits is to register for Dibs Wholesale.</p>
+
+<h2 id="registration-for-dibs-wholesale">Registration For Dibs Wholesale</h2>
+
+<p>Registration is easy and won&rsquo;t take more than a few minutes. The Dibs Wholesale registration process is a web only process at the moment, and you can <a href="https://grabdibs.com/info/wholesale">being that process here</a>. Tap the &lsquo;Sign Up Now&rsquo; button at the top of that page and you will be taken to the registration form.</p>
+
+<p>There are two main steps to registration, logging into or creating a Dibs user account and supplying your wholesale seller information.</p>
+
+<h3 id="login-or-create-a-dibs-account">Login or Create A Dibs Account</h3>
+
+<p>If you have an existing login with Dibs, then supply your username and password to gain access to the remainder of the registration form. </p>
+
+<p>If you do not have an existing account, then click the &ldquo;Sign Up&rdquo; button and register for a Dibs User account. </p>
+
+<p>Once you have logged in or registered, you will be brought back to this form to complete the second half of this registration form.</p>
+
+<h3 id="supplying-registration-information">Supplying Registration Information</h3>
+
+<p>The table below provides details on the form fields and information on what is required or not.</p>
+
+<table><thead>
+<tr>
+<th>Field</th>
+<th>Description</th>
+<th style="text-align: center">Required</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>First Name</td>
+<td>The first name of the store owner.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Last Name</td>
+<td>The last name of the store owner.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Business Name</td>
+<td>Your business name, which will appear as your &ldquo;screen name&rdquo; in the app.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Website</td>
+<td>Enter your website here. It will display on your storefront.</td>
+<td style="text-align: center">N</td>
+</tr>
+<tr>
+<td>Street Address</td>
+<td>Enter your business street address. It will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>City</td>
+<td>Enter your business city. It will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>State</td>
+<td>Enter your business state. It will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Zip</td>
+<td>Enter your business zip. It will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Email Address</td>
+<td>Enter the email address that you use for your store. This will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Phone</td>
+<td>Enter your business phone number. This will display on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Tax Identifier</td>
+<td>Enter your tax Identifier, if you wish to automate payment process with us, this is your first step.</td>
+<td style="text-align: center">N</td>
+</tr>
+<tr>
+<td>Shipping Options</td>
+<td>Check this box if you want to provide shipping options to buyers. If you do not want to provide shipping options then people will have to pickup the item locally. This will be displayed on your storefront.</td>
+<td style="text-align: center">Y</td>
+</tr>
+<tr>
+<td>Community Standards</td>
+<td>Checking this box acknowledges that you agree to post content that meets our community standards.</td>
+<td style="text-align: center">Y</td>
+</tr>
+</tbody></table>
+
+<p>After you have completed the registration form and submitted it, you will now have an active wholesale channel.</p>
+
+<aside class="notice">
+Dibs will monitor the content of your channel to ensure it meets community standards. If it does not, then we will be in contact to help return the store to compliance.
+</aside>
+
+<blockquote>
+<p>Dibs will monitor the content of your channel to ensure it meets community standards. If it does not, then we will be in contact to help return the store to compliance.</p>
+</blockquote>
+
+<p>You are now ready to finish the setup of your storefront, posting inventory, and inviting customers to your private channel.</p>
+
+<p><strong>Please note</strong> that you will want to also visit the <a href="#creating-your-storefront">Storefront section</a> of this document to <a href="#profile-picture">add your store profile picture</a> and to <a href="#banner-image">add your store image banner background</a>. Once you have your store details, profile image, and banner image complete - you should feel confident to show off your storefront and begin inviting your buyers.</p>
+
+<h3 id="advanced-tools-for-wholesale-sellers">Advanced Tools For Wholesale Sellers</h3>
+
+<p>Aside from the advanced storefront seller tools that you get when create a wholesale seller account, there are several other impactful tools that you can use as a wholesale seller. This section describes those tools.</p>
+
+<h3 id="customer-invitations-private-channel">Customer Invitations (Private Channel)</h3>
+
+<p>You can invite customers to your private channel via email. By Inviting customers to your private channel, they will be able to receive new item announcements from your store, view wholesale items, and purchase wholesale items. </p>
+
+<p>The invite will have a custom link that will take your customer directly to a personalized (for your private wholesale channel) subscription page. From this page your customers can provide details on their store and submit the request to your for approval. </p>
+
+<p>The requests will be sent via push notification to your app, and will also be emailed to you. When you receive these requests, you will need to review the customers details and then either approve or deny their access. Either action will then notify the user of your decision and either grant or deny access to your private channel.</p>
+
+<p>You can always access their approval requests at a later time and change their enrollment status, should the need arise to do so.</p>
+
+<p>You can invite customers to your private channel by following the  <a href="#sharing-via-friend-invitations">directions provided here</a>.</p>
+
+<h3 id="your-private-invite-only-sales-channel">Your Private &amp; Invite Only Sales Channel</h3>
+
+<p>The private sales channel is what is <strong>key</strong> to the Dibs wholesale seller system.  When you post items to your private channel, they remain private and hidden from public view. Items posted to your private channel are only visible to the people you invite to your private channel, and no one else. </p>
+
+<h4 id="inviting-customers-to-your-private-channel">Inviting Customers To Your Private Channel</h4>
+
+<p>Details</p>
+
+<h5 id="customers-access-requests">Customers Access Requests</h5>
+
+<p>Customers can request access to your private channel as well.</p>
+
+<h3 id="selling-items">Selling Items</h3>
+
+<p>What is unique here</p>
+
+<h4 id="sales-channel-targeting">Sales Channel Targeting</h4>
+
+<p>Wholesale versus retail. Buy Now and Quantity </p>
+
+<h4 id="wholesale-post-lifecycle">Wholesale Post Lifecycle</h4>
+
+<p>Public can&rsquo;t see. Subscribers of wholesale channel can.</p>
+
+<h3 id="new-item-announcements">New Item Announcements</h3>
+
+<p>This is what they are, this is what they do</p>
+
+<h4 id="creating-announcements">Creating Announcements</h4>
+
+<p>Do this and that</p>
+
+<h1 id="summary">Summary</h1>
+
+<p>More info, contact, etc</p>
+
+      </div>
+      
+    </div>
+  </body>
+</html>
