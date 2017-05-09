@@ -3,6 +3,8 @@ To use Dibs, head on over to the [registration page](https://www.grabdibs.com/re
 
 Once you have an account on Dibs you will be able to follow along with everything described here.
 
+Thanks for your interest in Dibs.
+
 # Selling On Dibs
 Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
 
@@ -74,7 +76,7 @@ You can also send email invitations to people in your address book and grow your
 You can navigate to the Social Feed tab, in the bottom tab bar, and once you are on the Social Feed you will see a person shaped icon on the left side of the Navigation Bar. Tap that icon and it will bring you to the email invitation screen. 
 
 <aside class="warning">
-Please accept the IOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.
+Please accept the iOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.
 </aside>
 
 The email invitation screen allows you to choose emails from your address book, manually enter email addresses, and send a test email to yourself so you can see what the email looks like before inviting your friends.
@@ -102,52 +104,125 @@ However, one of the most flexible items in the Share Sheet is the 'Copy' item. T
 Great job, now you know how to post items, view them, and invite friends to view them as well! Now you can get to selling!
 
 # Managing Items
+When you have items published on Dibs, there are several reasons why you may want to make changes to that item. This section of the document covers a few of the supported item change types.
+
 ## Editing Items
-What can be edited
+There are several fields that can be edited once a item has been published. To edit an item, just navigate to an item that you own and tap the 'Options' item in the top right Navigation Bar. Once the Action Sheet appears, then you can choose the 'Edit' item and you will be brought to the Edit Item screen pictured below.
+
+![test.png](SusanHorneImage.jpg)
+
+The editable fields include the following items:
+
+- Price
+- Description
+- Category
+- Location
+
+If you need to change fields beyond those, then you will need to delete this item and repost it with the required changes.
+
 ## Deleting Items
-How to delete
+To delete an item, just navigate to an item that you own and tap the 'Options' item in the top right Navigation Bar. Once the Action Sheet appears, then you can choose the red 'Delete' item and you will be asked to confirm your intention. Once confirmed, your item will be deleted.
+
 ## Marking Items Sold
 When your item sells, or you have depleted all available quantity then you can mark the item as sold. Marking the item sold will not remove it from your profile/storefront/search, but will prevent people from attempting to purchase it moving forward. In this way, inventory is kept around to help you advertise the culture and tone of the items you carry, which will help you build your following on Dibs.
+![test.png](SusanHorneImage.jpg)
+
+To mark an item sold, just navigate to an item that you own and tap the 'Options' item in the top right Navigation Bar. Once the Action Sheet appears, then you can choose the 'Mark Sold' item and your item will display the sold indicator.
+
+If for some reason you need to put the item back on sale, you can simply follow the same path to the item options and the options will change for an item already marked sold, and will display 'Unmark Sold'. Choose this potion to put it back into the unsold state.
 
 # Dibs for Storefront Sellers
-Description
+Dibs offers customized storefronts for local artisans, craftsmen, sellers of antiques, vintage, and unique items. These storefronts allow you to have a place where you can:
+
+- Be discovered on the Dibs map by local customers
+- Have your store appear in in-app advertisements to reach new customers
+- Allow local customers to grab dibs and come by to pickup the items (or ship if you support that too)
+- Simplify selling your items with electronic payment through Dibs.
+- Have a beautiful storefront for both web and mobile.
+- Enjoy unique ways to interact with customers and grow their imaginations.
+- Reach new customers that you might have had difficulties reaching before.
+- Increase your sales.
+
+![test.png](SusanHorneImage.jpg)
+
+After you have created your store, you will receive a registration email with further details about configuring your account. You will immediately be added to the Dibs map, and you will be considered for placement on the in app Home Screen banner.
+
+This section of the document discuss the tools that are available for storefront sellers on Dibs.
+
 ## Creating Your Storefront
-You can...
+There are two ways to gain access to all the benefits of a Dibs storefront. 
+
+- You can [create your storefront via our web site](https://grabdibs.com/storefront)
+- Or you can create it in our mobile app
+
+Ultimately, you will want to login to the mobile app to finalize the completion of the creative assets of your storefront, but web is a simple way to get started ASAP.
+
 ### Creating on web
-Details
+You can create your storefront on our web site by visiting this page:
+
+- [https://grabdibs.com/storefront](https://grabdibs.com/storefront)
+
+The top part of this form requires you to signup or login. You can choose either path depending on if you already have an account, however the bottom portion of this form will not be editable until you have a active and logged in Dibs user.
+
+There are several fields on this registration form that will activate once your authenticated to Dibs and the below table will provide a description of what they will do:
+
+|Form Field          |Description                                                          |  Required  |
+|------------------- |-------------------------------------------------------------------- | :--------: |
+|First Name          |The Business owners first name. This will not be publicly displayed. |  Y         |
+|Last Name           |The Business owners last name. This will not be publicly displayed.  |  Y         |
+|Business Name       |The Business name. This will be displayed as your store name in app. |  Y         |
+|Website             |Your website address, if you have one.                               |  N         |
+|Street Address      |The street address for the business. This combined with the other address fields are what will show you on the Dibs map. So be sure to include your proper location.|  Y         |
+|City                |The business city.|  Y         |
+|State               |The business state.|  Y         |
+|Zip                 |The business zip.|  Y         |
+|Email Address       |The business email address.|  Y         |
+|Phone               |The business phone number.|  Y         |
+|Tax Identifier      |The business tax identifier. This is optional, however if you apply to become a wholesale customer, you may be required to enter one for the wholesaler you are applying for.|  N         |
+|Shipping Options    |Check this box if you want to provide shipping options to your customers. This will be displayed publicly.|  N         |
+|Community Standards |You need to check this to confirm you agree to our community standards.|  Y         |
+
 ### Creating via our mobile app
 Details
-#### Banner Image 
+
+## Adding A Banner Image 
 Requirements
-#### Profile Picture
+
+## Adding A Profile Picture
 Requirements
-#### Store Details
+
+## Adding Store Details
 Include web, address, phone, etc
-### Customer Invitations
+
+## Sending Customer Invitations
 You can invite customers to follow your store via email...
+
 ## Advanced Selling Tools For Storefronts
 Here is what you get
-### Selling Items
+## Selling Items
 #### Dibs
 Place a hold
 #### Buy It Now
 Paid and pick or ship, configured when item gets sold
-### Inventory Management
+## Inventory Management
 Add Inventory identifier, use the bar code scanner. Ease product lookups on purchase. Close inventory that is sold.
-### Customer Targeting
+## Customer Targeting
 you can configure posting regions and have your posts hover where your customers are, this make your items more discoverable. Yet they still appear in your followers items feed
-### Staging Posts
+## Staging Posts
 You can set items to display in the future
-### Bumping Posts
+## Bumping Posts
 You can bump posts to the top of your local feed
-### Custom Signature
+## Custom Signature
 You can add a signature block to your posts, for example to include information about store policies or shipping details.
-### 3D Posts
+## 3D Posts
 You can post items using our unique technology to allow people to see all sides of your item
-### Local Advertising 
-#### Home Screen Banners
+## Local Advertising 
+We can advertise
+
+### Home Screen Banners
 You can be included in the home screen banner in your region
-#### Dibs Advertising Network
+
+### Dibs Advertising Network
 Here you can
 
 
@@ -298,7 +373,7 @@ The Message is the field where you can describe the overall group of items in th
 Once you have added a message and optionally a title, then you can tap the 'Send' button in the upper right of the Navigation Bar. This will send the announcement to the intended recipients.
 
 ### Announcement Complete
-Congratulations, you sent your first Announcment! 🍻 
+Congratulations, you sent your first Announcment!  
 
 Here is what will happen next. The recipients that are subscribed to your wholesale channel and that are using the mobile app, will receive a push notification that will take them directly to your announcement. 
 
