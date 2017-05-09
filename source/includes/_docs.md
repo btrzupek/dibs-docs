@@ -5,9 +5,10 @@ Once you have an account on Dibs you will be able to follow along with everythin
 
 # Selling On Dibs
 Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
-- **General Seller**  local artisans or people with some goods to sell.
-- **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
-- **Wholesale Sellers**  sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
+
+* **General Seller**  local artisans or people with some goods to sell.
+* **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
+* **Wholesale Sellers**  sellers who desire some privacy around content and pricing, and maintain a group of active buyers.
 
 This document is separated into sections to address the needs and functions available to each of these types of Dibs users.
 
@@ -26,6 +27,7 @@ You should have only a single item per post, don't try and put five pictures of 
 Choose clear, well lit images that highlight the best features of your items. The picture is what is going to sell your item, so make it great! As your item price increases, multiple pictures are a virtual requirement to provide the buyer with enough information to engage in the sale.
 ### Step 2. Add a Price and Description
 The next step is to add the details about your item to the post.  On this screen you will be able to add the following information to your post:
+
 - Price
 - Category
 - Description
@@ -55,6 +57,7 @@ When you return to the main app screen, use the tab bar at the bottom of the app
 
 ### Sharing Your Post With A Bigger Audience
 You have several options for how to share a post with others and grow the audience for the item. Posts can (or will be, depending on the type) be shared in the following manners:
+
 - Shared with your followers
 - Shared via friend invitations
 - Shared through Facebook
@@ -152,6 +155,7 @@ Here you can
 Dibs provides features and tooling to directly simplify and automate the work of estate sellers, importers, and antique wholesalers. Registration of a wholesale account is free and you can follow the steps below to configure your account. 
 
 The wholesale tools from Dibs provide many benefits including:
+
 - All of the advanced functionality that comes with a Dibs Storefront. (See the above section for more information on storefronts)
 - A private and invite only sales channel, where your items, pricing, and customers are all protected from disclosure to the general public.
 - A simple way to announce new inventory, and get the items in front of your buyers.
@@ -224,10 +228,12 @@ You can invite customers to your private channel by following the  [directions p
 
 ## Customers Access Requests
 The customer invitation process offers two points of control, to ensure that only the folks you invite are allowed access to your channel.  These control points include:
+
 - You must send your custom invite link to your customers.
 - You must also 'accept' their invitation request once they have completed the registration form.
 
 The invitation approval screen is pictured below. This screen allows your to perform just a few simple actions, including:
+
 - Reviewing the user information from the requesting customer.
 - Approving the request, which allows them access to your channel.
 - Declining the request, which declines or removes their access from your channel. 
