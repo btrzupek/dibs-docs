@@ -203,15 +203,15 @@ You are now ready to finish the setup of your storefront, posting inventory, and
 
 Lastly, you will also receive an email after you finish your registration. This email will contain instructions for you to being using your new channel as well as all the custom links for you to send to your customers, if you should decide to do that on your own and not use the tooling in the app.
 
-### Advanced Tools For Wholesale Sellers
+## Advanced Tools For Wholesale Sellers
 Aside from the advanced storefront seller tools that you get when create a wholesale seller account, there are several other impactful tools that you can use as a wholesale seller. This section describes those tools.
 
-### Your Private & Invite Only Sales Channel
+## Your Private & Invite Only Sales Channel
 The private sales channel is what is **key** to the Dibs wholesale seller system.  When you post items to your private channel, they remain private and hidden from public view. Items posted to your private channel are only visible to the people you invite to your private channel, and no one else. 
 
 When you post new items to your private channel, all the associated new item notifications will be sent to the validated subscribers of your private channel.
 
-### Customer Invitations (Private Channel)
+## Customer Invitations (Private Channel)
 You can invite customers to your private channel via email. By Inviting customers to your private channel, they will be able to receive new item announcements from your store, view wholesale items, and purchase wholesale items. 
 
 The invite will have a custom link that will take your customer directly to a personalized (for your private wholesale channel) subscription page. From this page your customers can provide details on their store and submit the request to your for approval. 
@@ -222,7 +222,7 @@ You can always access their approval requests at a later time and change their e
 
 You can invite customers to your private channel by following the  [directions provided here](#sharing-via-friend-invitations).
 
-##### Customers Access Requests
+## Customers Access Requests
 The customer invitation process offers two points of control, to ensure that only the folks you invite are allowed access to your channel.  These control points include:
 - You must send your custom invite link to your customers.
 - You must also 'accept' their invitation request once they have completed the registration form.
@@ -237,9 +237,9 @@ The invitation approval screen is pictured below. This screen allows your to per
 
 You can always go back to your Notifications Tab (in the app) later, and manage requests or remove access if your situation changes. 
 
-### Selling Items
+## Selling Items
 There is a single, yet important, difference when posting items intended to go to your private wholesale channel. The difference is that you will want to explicitly mark the item as a 'wholesale' item. You do this on the second selling screen (pictured below), at the bottom there is a button that allows you to toggle the post between 'Retail' and 'Wholesale'. By choosing the 'Wholesale' option, the item will be posted to your private wholesale channel and become visible to only those customers with access to your channel. The remainder of the selling process is unchanged for selling items to wholesale. 
-#### Buy Now and Quantity
+## Buy Now and Quantity
 When the wholesale channel is selected for your item being posted, you have the option of enabling 'Buy It Now' for that item. This option will allow your customers to complete the purchase of the item, electronically in the app. Upon completion of the transaction, both the seller and buyer will receive follow on notifications so the item shipment, delivery, or pickup can be arranged.
 
 When 'Buy It Now' is enabled, you also need to input an inventory quantity. Please enter whatever quantity you are willing to commit to the Dibs sales channel, as you can hold other inventory for additional sales channels you already use.
@@ -252,20 +252,20 @@ Buy It Now transactions are subject to the transaction fees listed in our [terms
 
 When the available quantity for an item has been purchased, the item 'action button' will return to the 'dibs' button. This will allow you to continue to garner interest for the item, should you have additional inventory or ordering capacity. However, if you have sold all items and have no ability to fulfill additional orders, then it is best to [mark the item sold](#marking-items-sold). This will still allow customers to see the great types of items available in your store, but it will not allow them to purchase or grab Dibs any longer.
 
-### New Item Announcements
+## New Item Announcements
 Announcements provide a way for you to "show" your new inventory to your customers and buyers, through one easy interaction. The best part is that Announcements have a built in "sales funnel" to help drive new and additional purchases from existing customers. Announcements help you keep your store in the front of your customers minds.
 
-#### Step 1. Begin Announcement
+### Step 1. Begin Announcement
 To begin creating an announcement you will have to use tap the 'camera icon' on the Tab Bar at the bottom of the mobile app. This will bring up the screen that allows you to create an announcement, or begin posting an item. Tap the 'Announce Items' button to begin creating an announcement.
 ![SusanHorneImage](SusanHorneImage.jpg)
 
-#### Step 2. Choose Items
+### Step 2. Choose Items
 and
-#### Step 3. Choose Recipients
+### Step 3. Choose Recipients
 then
-#### Step 4. Add A Message and Name
+### Step 4. Add A Message and Name
 and
-#### Announcement Complete
+### Announcement Complete
 You are done!
 
 # Summary
