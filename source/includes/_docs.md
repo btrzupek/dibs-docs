@@ -6,7 +6,7 @@ Once you have an account on Dibs you will be able to follow along with everythin
 Thanks for your interest in Dibs.
 
 # Selling On Dibs
-Everyone can sell antique, vintage, unique, and artisinal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
+Everyone can sell antique, vintage, unique, and artisanal items on dibs. Dibs provides varying tools for the multiple types of sellers we commonly work with. These seller types include:
 
 * **General Seller**  local artisans or people with some goods to sell.
 * **Storefront Sellers**  folks who have anything from a small artisanal or craft business, all the way to folks with a retail shop.
@@ -312,7 +312,7 @@ When a buyer taps this button, they are taken to a checkout screen where they wi
 When the payment is cleared both the buyer and seller receive receipts of the transaction so that they can finalize the transaction. This can include the pickup or delivery options, depending on how the item was sold.
 
 <aside class="notice">
-Before using the buy it now button, you should get in contact wtih Dibs directly so that we can ensure that payments will flow properly to your banking system. Without this setup, we will hold the money until it clears and make payment to the seller as described in our Terms and Conditions.
+Before using the buy it now button, you should get in contact with Dibs directly so that we can ensure that payments will flow properly to your banking system. Without this setup, we will hold the money until it clears and make payment to the seller as described in our Terms and Conditions.
 </aside>
 
 ## Inventory Management
@@ -533,7 +533,7 @@ The Message is the field where you can describe the overall group of items in th
 Once you have added a message and optionally a title, then you can tap the 'Send' button in the upper right of the Navigation Bar. This will send the announcement to the intended recipients.
 
 ### Announcement Complete
-Congratulations, you sent your first Announcement! 🍻
+Congratulations, you sent your first Announcement! 
 
 Here is what will happen next. The recipients that are subscribed to your wholesale channel and that are using the mobile app, will receive a push notification that will take them directly to your announcement. 
 
