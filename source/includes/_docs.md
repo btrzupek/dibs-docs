@@ -246,11 +246,19 @@ You can always go back and edit your store details. To do so follow these instru
 - Then tap on the 'Options' button located at the top right in the Navigation Bar.
 - Then scroll to the bottom of the Options Screen and you will see the 'Storefront' item. Tap it to edit your storefront.
 
-This screen is pictured in the above section as well.
+This [screen is pictured in the above section](#creating-on-dibs-mobile-app) as well.
 
 ## Sending Customer Invitations
 (Customer invitations can only be sent from within the Dibs mobile app)
-You can invite customers to follow your store via email...
+
+You can automate inviting friends and customers to your new Dibs storefront by using the tools available in the Dibs mobile app. You can find the sharing tools by following these steps:
+
+- You will need to signup or login to Dibs.
+- Then tap on the User Profile Tab in the lower right of the Tab Bar. 
+- Then tap on the 'Options' button located at the top right in the Navigation Bar.
+- Then at the top of the Options Screen you will see the 'Invite Customers To Your Store' item. Tap it to go to the Invitation Screen.
+
+![Store Invites](DibsInviteStoreCustomers.png)
 
 ## Advanced Selling Tools For Storefronts
 Here is what you get
