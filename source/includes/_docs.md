@@ -17,7 +17,8 @@ This document is separated into sections to address the needs and functions avai
 ## Posting Your First Item
 Selling on Dibs could not be easier! You simply take a picture, add pricing and description information, and post it. 
 
-![test.png](SusanHorneImage.jpg)
+![Selling On Dibs](SellingOnDibs.png)
+
 ### Step 1. Take A Picture
 The first step is to either snap a few new pictures of the item you want to sell, or choose some great pics from your camera roll. You can add up to five pictures per post. 
 
@@ -55,7 +56,18 @@ When the post is complete you will receive a message telling you of the success.
 Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted to the people you invite so they can see what you are selling.
 </aside>
 
-When you return to the main app screen, use the tab bar at the bottom of the application to go to your user profile. Tap the far right person shaped tab to do this. Once you are there you will see your profile, and near the middle of the screen you will see a tab section that includes these labels; Social, Buying, Selling, & Favorites. Tap on the Selling tab and you will see your item in the grid below. Tapping on that item in the grid will take you to the item detail view where you have additional options related to your post.
+![Finished Dibs Post](FinishedDibsPost.png)
+
+### Viewing Items You Are Selling
+When you return to the main app screen:
+
+- use the tab bar at the bottom of the application to go to your User Profile. 
+- Tap the far right person shaped tab to do this. 
+- Once you are there you will see your Profile, and near the middle of the screen you will see a tab section that includes these labels; Social, Buying, Selling, & Favorites. 
+- Tap on the Selling tab and you will see your item in the grid below. 
+- Tapping on an item in the grid will take you to the item detail view where you have additional options related to your post.
+
+![Viewing Your Sale Items On Dibs](ViewSellingOnDibs.png)
 
 ### Sharing Your Post With A Bigger Audience
 You have several options for how to share a post with others and grow the audience for the item. Posts can (or will be, depending on the type) be shared in the following manners:
@@ -70,10 +82,14 @@ Whenever you post an item, it is shared with your followers. This means that whe
 
 People can find you and follow you in app by navigating to your items or your profile and tapping the follow button. You should encourage your friends to follow your account, as it helps grow your audience for your posted items. 
 
+![Following a Dibs User](FollowDibsUser.png)
+
 #### Sharing via friend Invitations
 You can also send email invitations to people in your address book and grow your follower base that way. There are two simple ways to send email invitations via Dibs. 
 
 You can navigate to the Social Feed tab, in the bottom tab bar, and once you are on the Social Feed you will see a person shaped icon on the left side of the Navigation Bar. Tap that icon and it will bring you to the email invitation screen. 
+
+![Inviting Friends To Dibs](InvitingFriendsToDibs.png)
 
 <aside class="warning">
 Please accept the iOS permissions that lets Dibs read your address book. Without doing this, you will not be able to send email invitations from within the app.
