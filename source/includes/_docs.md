@@ -260,25 +260,55 @@ You can automate inviting friends and customers to your new Dibs storefront by u
 
 ![Store Invites](DibsInviteStoreCustomers.png)
 
+Once you are at the Invitation Screen you will have a few ways you can interact with it. 
+
+- **Send Yourself A Test Email**- You can send a test email to your own email address, to see what your customers will see.
+- **Add All Address Book Contacts**- You can add every email address from your Address Book on your device. 
+- **Add A Custom Message**- You can add a custom message that will be included in the email sent to your chosen recipients.
+- **Add Recipients**- You can choose recipients from the listed recipients on the bottom half of the screen or you can manually enter email address in the "To:" field.
+
+When you have entered your message and chosen your recipients, then tap the 'Send' button and the email(s) will be sent to the chosen recipients.
+
+The email includes a download link for the app and a link to your storefront with instructions for the recipient to begin following you on Dibs.
+
 ## Advanced Selling Tools For Storefronts
-Here is what you get
+One of the major reasons to signup as a Dibs storefront is that you gain access to several advanced seller tools that are not available with a general seller account. This section of the document describes these tools.
+
 ## Selling Items
+There are several tools available for when a storefront  is selling items on Dibs .
+
 #### Dibs
-Place a hold
+The Dibs button is the major interaction point for all items posted on Dibs. When a buyer taps this button, they are saying they want the item and that the seller should hold it for them. Once this button is tapped, the system will bring the buyer and seller together into a private chat session to make final arrangements for the item. This is a good time to work out payment, pickup, or shipping options.
+
 #### Buy It Now
-Paid and pick or ship, configured when item gets sold
+As a storefront seller, you also gain access to the 'Buy It Now' button. This button is enabled when an item is posted and the seller enables this option. This is a per item option, not a per account option.
+
+When a buyer taps this button, they are taken to a checkout screen where they will see the price and description for the item and they will have the option to enter their purchasing information and make final payment.
+
+When the payment is cleared both the buyer and seller receive receipts of the transaction so that they can finalize the transaction. This can include the pickup or delivery options, depending on how the item was sold.
+
+<aside class="notice">
+Before using the buy it now button, you should get in contact wtih Dibs directly so that we can ensure that payments will flow properly to your banking system. Without this setup, we will hold the money until it clears and make payment to the seller as described in our Terms and Conditions.
+</aside>
+
 ## Inventory Management
 Add Inventory identifier, use the bar code scanner. Ease product lookups on purchase. Close inventory that is sold.
+
 ## Customer Targeting
 you can configure posting regions and have your posts hover where your customers are, this make your items more discoverable. Yet they still appear in your followers items feed
+
 ## Staging Posts
 You can set items to display in the future
+
 ## Bumping Posts
 You can bump posts to the top of your local feed
+
 ## Custom Signature
 You can add a signature block to your posts, for example to include information about store policies or shipping details.
+
 ## 3D Posts
 You can post items using our unique technology to allow people to see all sides of your item
+
 ## Local Advertising 
 We can advertise
 
