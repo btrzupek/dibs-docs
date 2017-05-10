@@ -37,10 +37,10 @@ The next step is to add the details about your item to the post.  On this screen
 After adding these details to your post, you can proceed to the next step.
 
 ### Step 3. Post Destinations 
-The final step for posting an item allows you to set the location for the item being posted and share your item into your Facebook feed or to a Facebook group that you are a member of.  If tap on either of these buttons, you will be required to login with Facebook (if you are not already). 
+The final step for posting an item allows you to set the location for the item being posted and share your item into your Facebook feed or to a Facebook group that you are a member of.  If you tap on either of these buttons, you will be required to login with Facebook (if you are not already). 
 
 #### Location
-By default, the post will be created at your current location. This is great if are at the same place where the item is being sold, however in some situations you may want to post from a different location. For example, you tap the button that says "Current Location" and then move where the item will be placed at. This is a great option if, for example, you are posting inventory for sale at a retail store, but you are sitting at home while posting the item.
+By default, the post will be created at your current location. This is great if are at the same place where the item is being sold, however in some situations you may want to post from a different location. For example, you tap the button that says "Current Location" and then move where the item will be placed. Also, this is a great option if you are posting inventory for sale at a retail store, but you are sitting at home while posting the item.
 
 #### Facebook
 Sharing to your own feed is a great way to let your Facebook friends know about your item.
@@ -52,7 +52,7 @@ If you don't want to share your feed on Facebook then you can just proceed to th
 ### Viewing Your Finished Post
 When the post is complete you will receive a message telling you of the success. Dismiss this screen.
 <aside class="notice">
-Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted ot to the people you invite so they can see what you are selling.
+Note, if you wish you can also invite Facebook friends from this screen. This will share the link for the item you just posted to the people you invite so they can see what you are selling.
 </aside>
 
 When you return to the main app screen, use the tab bar at the bottom of the application to go to your user profile. Tap the far right person shaped tab to do this. Once you are there you will see your profile, and near the middle of the screen you will see a tab section that includes these labels; Social, Buying, Selling, & Favorites. Tap on the Selling tab and you will see your item in the grid below. Tapping on that item in the grid will take you to the item detail view where you have additional options related to your post.
