@@ -1,7 +1,7 @@
 # Getting Started
 To use Dibs, head on over to the [registration page](https://www.grabdibs.com/register) and create an account if you have not already. Additionally, you can also [download the Dibs mobile app](https://itunes.apple.com/us/app/dibs-buy-sell-unique-vintage-second-hand/id779556743) from the App Store for the premier Dibs experience.
 
-Once you have an account on Dibs you will be able to follow along with everything described here.
+Once you have an account on Dibs you will be able to follow along with everything described here in this User Guide.
 
 Thanks for your interest in Dibs.
 
@@ -292,31 +292,62 @@ Before using the buy it now button, you should get in contact wtih Dibs directly
 </aside>
 
 ## Inventory Management
-Add Inventory identifier, use the bar code scanner. Ease product lookups on purchase. Close inventory that is sold.
+At Dibs, we recognize that our customers have an extremely fluid inventory situation - often with inventory 'surprises' that can change dynamics extremely quickly. 
+
+We have an inventory tracking solution for you If you utilize unique item identifiers, bar codes, or QR codes for tracking your items. 
+
+When posting an item, at step two, there is an option for a 'Store Item Identifier'. You can manually enter any identifier you wish, however if you tap on the camera icon in the 'Store Identifier' inout box you will be presented with our barcode/QR scanner. 
+
+![DibsBarCodeScanner](DibsBarCodeScanner.png)
+
+Simply place your items barcode or QR ticket under your camera and it will automatically pull in the identifier and add it to your item.
+
+Later, as inventory sells (perhaps through other channels like your physical store) you can simply search your inventory by identifier and mark the item sold in Dibs. This will keep the item listed on the system, but clearly show that it has been purchased and it will prevent customers from attempting to buy it again. However, leaving the item there is excellent advertising for your store, and you may see customers come back with inquiries on sold inventory that may influence your future purchasing decisions.
 
 ## Customer Targeting
-you can configure posting regions and have your posts hover where your customers are, this make your items more discoverable. Yet they still appear in your followers items feed
+Dibs storefront sellers can employ advanced targeting mechanisms to reach customers where **they** are located.  We realize that many Dibs customers have regional areas where customers travel **from** to come to their stores and purchase items. Using our advanced targeting mechanism allows your items to appear in geographic areas where you want to find new customers, while leading those customers back to your store or online purchase. 
+
+When posting an item, on step three, you will have the option to enable the option to 'Place in preferred regions'. In the image below, this option is enabled. This will cause your item to be placed randomly inside the predefined regions you create.
+
+You can create regions by navigating to your Profile Options and tapping on the 'Preferred Post Regions' option. Once at the Preferred Region Editor screen, you simply tap the '+' button to add a region, drag it to where you want it centered, and use the slider at the bottom to define the size of that region.  You can add as many as you like. You can tap a region pin, and then tap the '-' button to remove a region you no longer want.
+
+![DibsPreferredPostingRegions](DibsPreferredPostingRegions.png)
 
 ## Staging Posts
-You can set items to display in the future
+When posting items as a storefront, it may be desirable to have a delay before the post goes live to the public.  To accomplish this, when posting an item (on step three) you can enable the 'Stage Post In Future' option. Doing so will bring up a date picker where you can choose the date and time when you desire the post to go live. Then complete your post as normal.
+
+![DibsPostStaging](DibsPostStaging.png)
 
 ## Bumping Posts
-You can bump posts to the top of your local feed
+Storefront sellers have the unique capability to 'bump' posts to the top of the feed. This can drastically improve visibility for your items as you will likely be page 1 for searches and filters that find your item.
+
+Bumping a post is accomplished by navigating to an item that you posted, and tapping the 'Options' button. When the Action Sheet pictured below appears, you simply need to tap 'Bump To Top' and your post will be moved to the top of the relevant feed.
+
+![DibsPostBumping](DibsPostBumping.png)
 
 ## Custom Signature
-You can add a signature block to your posts, for example to include information about store policies or shipping details.
+You can add a signature block that will be automatically included in all your posts, for example to include information about store policies or shipping details. You can create a signature block by navigating to you Profile and choosing the 'Options' button. In the Options Screen you will see a 'Signature' item. Tap it and you will be brought to the signature editor. Here you can create, modify, or delete a signature.
 
-## 3D Posts
-You can post items using our unique technology to allow people to see all sides of your item
+![DibsStoreSignature](DibsStoreSignature.png)
 
 ## Local Advertising 
-We can advertise
+When we find great items that we think would be interesting to our users, we will often include your store name, links, and items in those advertisements. This can include advertising we perform to generate application installs, or new user registrations, or re-engagement advertising, or simply promotional pieces that we do from time to time. 
+
+Once you are a storefront, you qualify to be include in this free advertising when we choose to do it. 
 
 ### Home Screen Banners
-You can be included in the home screen banner in your region
+The Home Screen of the app has a large scrolling banner at the top that contains 'Advertisements' for storefronts that are on Dibs. They storefronts displayed are chosen based on the users proximity to the store, position scoring factors we set, and searches the customer performs. 
+
+Once you are a Dibs storefront seller, you qualify to be placed in this prestigious position. Dibs makes final decisions on what stores get placed here, but our decision is mostly based on the quality of items that you are posting. 
+
+If you are interested in appearing in this section of the app, please contact us at advertising@grabdibs.com.
 
 ### Dibs Advertising Network
-Here you can
+The Dibs Advertising Network (DAN) is a complete local business advertising solution for local service providers and sellers of unique, vintage, antique and artisanal items. Contact us at advertising@grabdibs.com to learn more about how you can promote your business or service to our customers.
+
+We curate our advertisers pretty aggressively. For example, we will not accept national brand advertisers or chain stores. That goes against our focus on small business. 
+
+You can learn more about advertising options at https://business.grabdibs.com
 
 
 # Dibs For Wholesale Sellers
