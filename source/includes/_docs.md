@@ -125,7 +125,7 @@ When you have items published on Dibs, there are several reasons why you may wan
 ## Editing Items
 There are several fields that can be edited once a item has been published. To edit an item, just navigate to an item that you own and tap the 'Options' item in the top right Navigation Bar. Once the Action Sheet appears, then you can choose the 'Edit' item and you will be brought to the Edit Item screen pictured below.
 
-![test.png](SusanHorneImage.jpg)
+![Editing Dibs Items](EditDibsItem.png)
 
 The editable fields include the following items:
 
@@ -141,7 +141,8 @@ To delete an item, just navigate to an item that you own and tap the 'Options' i
 
 ## Marking Items Sold
 When your item sells, or you have depleted all available quantity then you can mark the item as sold. Marking the item sold will not remove it from your profile/storefront/search, but will prevent people from attempting to purchase it moving forward. In this way, inventory is kept around to help you advertise the culture and tone of the items you carry, which will help you build your following on Dibs.
-![test.png](SusanHorneImage.jpg)
+
+![Editing Dibs Items](EditDibsItem.png)
 
 To mark an item sold, just navigate to an item that you own and tap the 'Options' item in the top right Navigation Bar. Once the Action Sheet appears, then you can choose the 'Mark Sold' item and your item will display the sold indicator.
 
@@ -159,7 +160,9 @@ Dibs offers customized storefronts for local artisans, craftsmen, sellers of ant
 - Reach new customers that you might have had difficulties reaching before.
 - Increase your sales.
 
-![test.png](SusanHorneImage.jpg)
+Below is a sample storefront as seen on the iPhone.
+
+![Dibs Storefront](DibsStorefront.png)
 
 After you have created your store, you will receive a registration email with further details about configuring your account. You will immediately be added to the Dibs map, and you will be considered for placement on the in app Home Screen banner.
 
@@ -231,7 +234,9 @@ Once you are on the storefront edit screen, you can tap on the Edit button by th
 The Banner image will be used across the web app, mobile web, various iPad screen resolutions, and various iPhone resolutions. You will want to use an image that has a landscape orientation and a 16:9 aspect ratio. A suggested minimum pixel size is 1920x1080, this will help avoid pixelation on larger display types.
 </aside>
 
-The chosen image will be displayed in an "Aspect Fill" format. This means that the width of your landscape image will always reach edge to edge of the banner view, but it will display vertically centered. If the image height is greater than the presented height, then the top and bottom pixels will be cropped.
+The chosen image will be displayed in an "Aspect Fill" format. This means that the width of your landscape image will always reach edge to edge of the banner view, but it will display vertically centered. If the image height is greater than the presented height, then the top and bottom pixels will be cropped. An example is below.
+
+![Aspect Fit Image Sizing](ImageAspectFitRules.png)
 
 ## Adding A Profile Picture
 (Profile picture setup can only be done from within the Dibs mobile app)
@@ -294,6 +299,9 @@ One of the major reasons to signup as a Dibs storefront is that you gain access 
 There are several tools available for when a storefront  is selling items on Dibs .
 
 #### Dibs
+
+![Dibs Button](DibsButton.png)
+
 The Dibs button is the major interaction point for all items posted on Dibs. When a buyer taps this button, they are saying they want the item and that the seller should hold it for them. Once this button is tapped, the system will bring the buyer and seller together into a private chat session to make final arrangements for the item. This is a good time to work out payment, pickup, or shipping options.
 
 #### Buy It Now
@@ -433,6 +441,8 @@ When you post new items to your private channel, all the associated new item not
 ## Customer Invitations (Private Channel)
 You can invite customers to your private channel via email. By Inviting customers to your private channel, they will be able to receive new item announcements from your store, view wholesale items, and purchase wholesale items. 
 
+![Invite Customers To Dibs Wholesale](InviteCustomersToDibsWholesale.png)
+
 The invite will have a custom link that will take your customer directly to a personalized (for your private wholesale channel) subscription page. From this page your customers can provide details on their store and submit the request to your for approval. 
 
 The requests will be sent via push notification to your app, and will also be emailed to you. When you receive these requests, you will need to review the customers details and then either approve or deny their access. Either action will then notify the user of your decision and either grant or deny access to your private channel.
@@ -454,14 +464,19 @@ The invitation approval screen is pictured below. This screen allows your to per
 - Declining the request, which declines or removes their access from your channel. 
 - Closing the request, so that you can review it further later. In this case, no action is taken and the customer is left in the access state they had when you entered this screen.
 
-![test.png](SusanHorneImage.jpg)
+![Review Wholesale Access Request](WholesaleAccessRequestReview.png)
 
 You can always go back to your Notifications Tab (in the app) later, and manage requests or remove access if your situation changes. 
 
 ## Selling Items
+
+![Posting to Dibs Wholesale](PostDibsItemToWholesale.png)
+
 There is a single, yet important, difference when posting items intended to go to your private wholesale channel. The difference is that you will want to explicitly mark the item as a 'wholesale' item. You do this on the second selling screen (pictured below), at the bottom there is a button that allows you to toggle the post between 'Retail' and 'Wholesale'. By choosing the 'Wholesale' option, the item will be posted to your private wholesale channel and become visible to only those customers with access to your channel. The remainder of the selling process is unchanged for selling items to wholesale. 
 ## Buy Now and Quantity
 When the wholesale channel is selected for your item being posted, you have the option of enabling 'Buy It Now' for that item. This option will allow your customers to complete the purchase of the item, electronically in the app. Upon completion of the transaction, both the seller and buyer will receive follow on notifications so the item shipment, delivery, or pickup can be arranged.
+
+![Posting With Buy It Now On Dibs](PostToDibsBuyItNow.png)
 
 When 'Buy It Now' is enabled, you also need to input an inventory quantity. Please enter whatever quantity you are willing to commit to the Dibs sales channel, as you can hold other inventory for additional sales channels you already use.
 
@@ -478,14 +493,17 @@ Announcements provide a way for you to "show" your new inventory to your custome
 
 ### Step 1. Begin Announcement
 To begin creating an announcement you will have to use tap the 'camera icon' on the Tab Bar at the bottom of the mobile app. This will bring up the screen that allows you to create an announcement, or begin posting an item. Tap the 'Announce Items' button to begin creating an announcement.
-![SusanHorneImage](SusanHorneImage.jpg)
+
+![Dibs Wholesale Announcement Step 1](WholesaleAnnouncementStep1.png)
 
 ### Step 2. Choose Items
 Now you will be presented with the option to 'Create A List' or 'Choose an Existing List'. A 'List' is a collection of items and recipients that you want to send an announcement to. Lists get saved when you are done creating announcements so that you can easily resend the same batch of images to new recipients, or a whole new batch of images to the same set of recipients.
-![SusanHorneImage](SusanHorneImage.jpg)
+
+![Dibs Wholesale Announcement Step 2](WholesaleAnnouncementStep2.png)
 
 For purposes of this document, we will assume that you are going to 'Create A List' and start fresh. Tap 'Create A List' and you will be presented with a list of items you have posted to your wholesale channel. Newest items are at the top. You can tap the items that you want to add to the Announcement. Add as many items as you like. 
-![SusanHorneImage](SusanHorneImage.jpg)
+
+![Dibs Wholesale Announcement Step 2.1](WholesaleAnnouncementStep3.png)
 
 <aside class="notice">
 If there are no items in the list, this means that you have not posted any items in your wholesale channel yet. Go post items in your wholesale channel and then come back to create your announcement.
@@ -496,7 +514,7 @@ Once you have chosen all your items, then tap the 'Next' button in the top Navig
 ### Step 3. Choose Recipients
 This screen will allow you to configure who the Announcement will be sent to. Starting from the top, here is a description of the options on this view.
 
-![SusanHorneImage](SusanHorneImage.jpg)
+![Dibs Wholesale Announcement Step 3](WholesaleAnnouncementStep4.png)
 
 |Option                                |Description                                                                                                                                                                                                                                                                                                                                                                    |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -504,16 +522,18 @@ This screen will allow you to configure who the Announcement will be sent to. St
 |Add Email Recipients (switch)         |This switch allows you to also add additional email recipients from your Contacts App or by manually inputting the email addresses.                                                                                                                                                                                                                                            |
 |Add All Address Book Contacts (Button)|This button allows you to add every contact in your address book with a single tap. This is useful if you have all your contacts in your address book, and perhaps only a few of them are contacts that you do not want the Announcement sent to. In this sample scenario, you can add all, and then simply deselect the contacts that you do not want to receive the invite..  |
 
-After you have configured the recipients in the manner you see fit, then you can tap the 'Next' button in the top Navigation Bar to get to the next step of sending the Announcment. 
+After you have configured the recipients in the manner you see fit, then you can tap the 'Next' button in the top Navigation Bar to get to the next step of sending the Announcement. 
 ### Step 4. Add A Message and Title
 Now that you have chosen your items and recipients, the last step is to add a personal message and an Announcement Title. (The Announcement Title can be used to uniquely identify this Announcement later so that you can use it for quick reference on future announcements.)
 
-The Message is the field where you can describe the overall group of items in this announcement to your customers. Something like: "Please browse our new inventory from Peru! They just arrived this morning and we have many great treasures...". This is your sales pitch to provide meaning and context to your customers about these new items in this Announcment. Make it good!
+![Dibs Wholesale Announcement Step 3](WholesaleAnnouncementStep5.png)
+
+The Message is the field where you can describe the overall group of items in this announcement to your customers. Something like: "Please browse our new inventory from Peru! They just arrived this morning and we have many great treasures...". This is your sales pitch to provide meaning and context to your customers about these new items in this Announcement. Make it good!
 
 Once you have added a message and optionally a title, then you can tap the 'Send' button in the upper right of the Navigation Bar. This will send the announcement to the intended recipients.
 
 ### Announcement Complete
-Congratulations, you sent your first Announcment!  
+Congratulations, you sent your first Announcement! 🍻
 
 Here is what will happen next. The recipients that are subscribed to your wholesale channel and that are using the mobile app, will receive a push notification that will take them directly to your announcement. 
 
