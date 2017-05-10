@@ -182,19 +182,74 @@ There are several fields on this registration form that will activate once your 
 |Shipping Options    |Check this box if you want to provide shipping options to your customers. This will be displayed publicly.|  N         |
 |Community Standards |You need to check this to confirm you agree to our community standards.|  Y         |
 
-### Creating via our mobile app
-Details
+Once the form is complete and submitted, we will email you a confirmation message. From this point, you should consider adding your banner image and profile image to help your store stand out from the rest.
+
+### Creating on Dibs mobile app
+You can also create your storefront on the Dibs mobile app. Navigating to the storefront creation screen is easy. 
+
+- You will need to signup or login to Dibs.
+- Then tap on the User Profile Tab in the lower right of the Tab Bar. 
+- Then tap on the 'Create Your Store' button located at the top of your profile.
+
+This will take you to the storefront creation screen. Once you are at this screen you can complete the fields, in a similar manner to how it is described in the [Creating a Storefront On Web](#creating-on-web) section above. 
+
+However, this form also allows you to add a banner image and a profile image to your store. You can see a sample of a completed store form (left), and the resulting store profile pictured (right) below.
+
+![Dibs Store Creation](DibsStoreCreation.png)
+
+After you have created your store, you will receive a registration email and your store will appear on the Dibs store map at that time. It is time to start posting some items, and inviting some customers now!
 
 ## Adding A Banner Image 
-Requirements
+(Banner setup can only be done from within the Dibs mobile app)
+
+If you created your storefront from the web site, then you will need to add your banner image using the mobile app. Additionally, you can edit your current banner image at any time by following these same instructions. To locate the store front edit screen do this:
+
+- You will need to signup or login to Dibs.
+- Then tap on the User Profile Tab in the lower right of the Tab Bar. 
+- Then tap on the 'Options' button located at the top right in the Navigation Bar.
+- Then scroll to the bottom of the Options Screen and you will see the 'Storefront' item. Tap it to edit your storefront.
+
+Once you are on the storefront edit screen, you can tap on the Edit button by the banner image. This will allow you to choose or take a photo for the banner. Once you have a photo you like, tap the 'Save' button and the image will be applied to your storefront. (you can also tap back and avoid changing anything associated with the storefront.)
+
+<aside class="notice">
+The Banner image will be used across the web app, mobile web, various iPad screen resolutions, and various iPhone resolutions. You will want to use an image that has a landscape orientation and a 16:9 aspect ratio. A suggested minimum pixel size is 1920x1080, this will help avoid pixelation on larger display types.
+</aside>
+
+The chosen image will be displayed in an "Aspect Fill" format. This means that the width of your landscape image will always reach edge to edge of the banner view, but it will display vertically centered. If the image height is greater than the presented height, then the top and bottom pixels will be cropped.
 
 ## Adding A Profile Picture
-Requirements
+(Profile picture setup can only be done from within the Dibs mobile app)
+
+If you created your storefront from the web site, then you will need to add your profile image using the mobile app. Additionally, you can edit your current profile image at any time by following these same instructions. To locate the store front edit screen do this:
+
+- You will need to signup or login to Dibs.
+- Then tap on the User Profile Tab in the lower right of the Tab Bar. 
+- Then tap on the 'Options' button located at the top right in the Navigation Bar.
+- Then scroll to the bottom of the Options Screen and you will see the 'Storefront' item. Tap it to edit your storefront.
+
+Once you are on the storefront edit screen, you can tap on the Edit button by the profile image. This will bring you to the Profile Edit Screen, where tapping on the Edit Picture button next to your profile images allows you to choose or take a photo for the profile image. Once you have a photo you like, tap the 'Save' button and the image will be applied to your profile and storefront. (you can also tap back and avoid changing anything associated with the storefront.)
+
+<aside class="notice">
+The Profile Image will be used across the web app, mobile web, various iPad screen resolutions, and various iPhone resolutions. You will want to use an image that has a square orientation (if possible) and a 1:1 aspect ratio. A suggested minimum pixel size is 1080x1080, this will help avoid pixelation on larger display types.
+</aside>
+
+The chosen image will be displayed in an "Aspect Fill" format. This means that the image will be displayed centered vertically and horizontally in the image container, with the smallest (horizontal or vertical) dimension matching the same display dimension and the other dimension (if greater) being clipped outside the image region.
 
 ## Adding Store Details
+(Modifying store details can only be done from within the Dibs mobile app)
 Include web, address, phone, etc
 
+You can always go back and edit your store details. To do so follow these instructions:
+
+- You will need to signup or login to Dibs.
+- Then tap on the User Profile Tab in the lower right of the Tab Bar. 
+- Then tap on the 'Options' button located at the top right in the Navigation Bar.
+- Then scroll to the bottom of the Options Screen and you will see the 'Storefront' item. Tap it to edit your storefront.
+
+This screen is pictured in the above section as well.
+
 ## Sending Customer Invitations
+(Customer invitations can only be sent from within the Dibs mobile app)
 You can invite customers to follow your store via email...
 
 ## Advanced Selling Tools For Storefronts

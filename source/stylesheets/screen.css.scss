@@ -390,13 +390,13 @@ html, body {
 
   h3, h4, h5, h6 {
     @extend %header-font;
-    font-size: 15px;
+    font-size: 17px;
     margin-top: 2.5em;
     margin-bottom: 0.8em;
   }
 
   h4, h5, h6 {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   hr {
@@ -417,7 +417,8 @@ html, body {
     th {
       padding: 5px 10px;
       border-bottom: 1px solid #ccc;
-      vertical-align: bottom;
+      vertical-align: top;
+      background-color: darken($main-bg,20%);
     }
 
     td {
@@ -433,7 +434,7 @@ html, body {
     }
 
     tr:nth-child(even)>td {
-      background-color: lighten($main-bg,2.4%);
+      background-color: darken($main-bg,2.4%);
     }
   }
 
@@ -452,6 +453,8 @@ html, body {
 
   img {
     max-width: 100%;
+	border: 1px solid gray;
+	
   }
 
   code {
